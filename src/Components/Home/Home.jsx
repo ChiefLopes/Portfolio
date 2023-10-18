@@ -41,7 +41,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="bg-slate-800 h-[8.5rem] relative bottom-20 flex justify-around px-18 py-9 space-x-12 text-white text-2xl text-center">
+      <div className="bg-slate-800 h-[8.5rem] relative bottom-20 flex justify-around px-18 py-9 space-x-[-20rem] text-white text-2xl text-center">
         <div className="">
           <p className="text-4xl font-bold mr-3">12+</p>
           <p className="text-sm">Years of experience</p>
