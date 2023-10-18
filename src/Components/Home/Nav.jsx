@@ -14,7 +14,7 @@ const Nav = () => {
     <div className="flex justify-between pt-10">
       <h1 className="text-3xl text-blue-400 px-10">LAJ</h1>
       <nav>
-        <ul className="flex justify-between space-x-6 px-[9rem]">
+        <ul className="flex justify-between space-x-6 px-[8rem]">
           {menuItems.map((item, index) => (
             <li key={index} className="cursor-pointer">
               {item}

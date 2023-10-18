@@ -7,7 +7,7 @@ const Home = () => {
     <section className="w-full h-[100vh] bg-slate-200">
       <Nav />
 
-      <div className="my-[5.5rem] flex justify-between">
+      <div className="my-[5.5rem] flex justify-between px-[6rem]">
         <div>
           <div className="pl-4">
             <h1 className="text-3xl font-bold text-black-700 leading-10">
@@ -31,7 +31,7 @@ const Home = () => {
         </div>
 
         <div
-          className="rounded-full h-80 w-80 mr-14"
+          className="rounded-full h-80 w-80 mr-[2rem]"
           style={{ backgroundColor: "hsla(292, 92%, 42%, 2)" }}>
           <img
             src={woman}
