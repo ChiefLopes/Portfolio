@@ -4,7 +4,7 @@ import woman from "../../assets/Images/woman.png"
 
 const Home = () => {
   return (
-    <section className="w-full h-[100vh] py-2 bg-slate-200">
+    <section className="w-full h-[100vh] py-4 bg-slate-200">
       <Nav />
 
       <div className="my-[5.5rem] flex justify-between px-[6rem]">
@@ -41,7 +41,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="bg-slate-800 h-[8rem] relative bottom-20 flex justify-around px-18 py-9 space-x-[-20rem] text-white text-2xl text-center py-[2.5rem]">
+      <div className="bg-slate-800 h-[7.5rem] relative bottom-20 flex justify-around px-18 py-9 space-x-[-20rem] text-white text-2xl text-center py-[2.5rem]">
         <div className="">
           <p className="text-4xl font-bold mr-3">12+</p>
           <p className="text-sm">Years of experience</p>
